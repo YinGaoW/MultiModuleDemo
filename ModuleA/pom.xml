@@ -13,12 +13,12 @@
   <packaging>jar</packaging>
 
   <name>ModuleA</name>
-
+<!--
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <scope>test</scope>
     </dependency>
-  </dependencies>
+  </dependencies>-->
 </project>
