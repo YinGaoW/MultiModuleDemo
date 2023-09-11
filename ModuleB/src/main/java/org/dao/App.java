@@ -12,5 +12,6 @@ public class App
         serverDao.function2();
         System.out.println(System.getProperty("user.dir"));
         System.out.println();
+        System.out.println(8888);
     }
 }
